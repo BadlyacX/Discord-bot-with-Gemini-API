@@ -1,0 +1,13 @@
+discord.py
+requests
+pyngrok
+beautifulsoup4
+python-dotenv
+google-generativeai
+pytz
+yt-dlp
+PyNaCl
+flask
+PyExecJS
+pytube
+spotipy
